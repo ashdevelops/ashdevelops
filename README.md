@@ -1,6 +1,6 @@
 # ashdevelops
 
-I'm a full stack engineer working primarily with C#, PHP, and TypeScript.
+I'm ash, a full stack engineer working primarily with C#, PHP, Go and TypeScript.
 
 
 ---
